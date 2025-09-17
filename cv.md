@@ -9,11 +9,12 @@ I am a motivated student aspiring to become a Frontend Software Engineer.
 My goals are to develop strong skills in frontend development.
 
 ## Skills
-- Programming Languages: HTML, CSS, JavaScript (basic)
+- Programming Languages: HTML, CSS, JavaScript (basic), Python (basic)
 - Version Control: Git, GitHub
 - Other Tools: VS Code, Markdown, Linux
 
 ## Code Example
+My leetcode profile with solved problems:
 https://leetcode.com/u/Nurali0032/
 
 ## Education
