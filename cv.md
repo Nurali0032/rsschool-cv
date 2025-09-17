@@ -1,7 +1,7 @@
 # Gizatulla Nurali
 
 ## Contact Information
-- Email: aightdev@gmail.com
+- Email: aightdev032@gmail.com
 - GitHub: [Nurali0032](https://github.com/Nurali0032)
 - Telegram: @sequoiapark0
 
